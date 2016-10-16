@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CharacterSheet.UI", "src\CharacterSheet.UI\CharacterSheet.UI.xproj", "{61873366-83CD-40E8-BE41-FEFAF79EB154}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CharacterSheet", "src\CharacterSheet\CharacterSheet.xproj", "{4459FCCA-713F-4D88-B38C-C1B7939629B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +24,16 @@ Global
 		{61873366-83CD-40E8-BE41-FEFAF79EB154}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61873366-83CD-40E8-BE41-FEFAF79EB154}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61873366-83CD-40E8-BE41-FEFAF79EB154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4459FCCA-713F-4D88-B38C-C1B7939629B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4459FCCA-713F-4D88-B38C-C1B7939629B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4459FCCA-713F-4D88-B38C-C1B7939629B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4459FCCA-713F-4D88-B38C-C1B7939629B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{61873366-83CD-40E8-BE41-FEFAF79EB154} = {1DEDCF2D-E4BB-4C38-A262-567A6FEA785D}
+		{4459FCCA-713F-4D88-B38C-C1B7939629B7} = {1DEDCF2D-E4BB-4C38-A262-567A6FEA785D}
 	EndGlobalSection
 EndGlobal
